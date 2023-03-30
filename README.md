@@ -24,7 +24,7 @@ Simply to share what we do and to make discover this speciality, which unfortuna
 This repo use [CC0 1.0](LICENSE), so everything are in public domain. Do whatever you want.
 
 
-## `🥖 - Français
+## `🥖 - Français`
 ## C'est quoi NSI ?
 NSI ou Numérique et Sciences Informatiques est un enseignement de spécialité du cycle terminal du lycée général (première et terminale).
 On étudie l'informatique et tout ce qui est associée.
