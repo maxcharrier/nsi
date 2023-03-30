@@ -14,7 +14,9 @@ We study several courses:
 - Algorithms : binary trees, graphs, divide-and-conquer, dynamic programming, pattern matching
 
 We mainly use Python as a reference language. However, we also see Web languages (HTML, CSS, JavaScript, PHP, Python with Flask).
+
 There are also projects to put into practice the different notions learned during the courses.
+
 And finally, the NSI test which consists of a written part (during 3h30) and a machine part (during 1h).
 
 ## Why this repo?
@@ -22,6 +24,7 @@ Simply to share what we do and to make discover this speciality, which unfortuna
 
 ## Legal
 This repo use [CC0 1.0](LICENSE), so everything are in public domain. Do whatever you want.
+
 
 ## `🥖 - Français`
 Trucs de NSI, spécialité de l'enseignement français.
@@ -37,7 +40,9 @@ Par exemple, on étudie différents cours :
 - Algorithmique : arbres binaires, graphes, diviser pour régner, programmation dynamique, recherche textuelle
 
 On utilise alors principalement Python comme référence. Cependant, on voit aussi les langages associées au Web (HTML, CSS, JavaScript, PHP, Python et le module Flask).
+
 Il y aussi différents projets à mettre en œuvre pour mieux acquérir les concepts des cours.
+
 Enfin, l'épreuve finale en deux partie : une partie écrite (3h30), une partie sur machine (1h).
 
 ## Pourquoi ce dépôt ?
