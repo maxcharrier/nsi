@@ -1,8 +1,6 @@
 # nsi
 
 ## `🍵 - English`
-NSI stuff, French education speciality.
-
 ## What is NSI?
 NSI stands for "**N**umérique et **S**ciences **I**nformatiques", it is a computer science course.
 In France, it is a speciality of première and terminale (11th & 12th Grade).
@@ -26,9 +24,7 @@ Simply to share what we do and to make discover this speciality, which unfortuna
 This repo use [CC0 1.0](LICENSE), so everything are in public domain. Do whatever you want.
 
 
-## `🥖 - Français`
-Trucs de NSI, spécialité de l'enseignement français.
-
+## `🥖 - Français
 ## C'est quoi NSI ?
 NSI ou Numérique et Sciences Informatiques est un enseignement de spécialité du cycle terminal du lycée général (première et terminale).
 On étudie l'informatique et tout ce qui est associée.
