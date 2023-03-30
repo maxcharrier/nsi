@@ -35,7 +35,7 @@ Par exemple, on étudie différents cours :
 - Données : structures de données (listes, piles, files, POO, arbres, graphes), bases de données (modèle relationnel, SGBD relationnel, SQL)
 - Machines et réseaux : fonctionnement (SoC, système d'exploitation), communication (réseaux et graphes, protocoles de routages, chiffrement, certificat HTTP)
 - Algorithmique : arbres binaires, graphes, diviser pour régner, programmation dynamique, recherche textuelle
--
+
 On utilise alors principalement Python comme référence. Cependant, on voit aussi les langages associées au Web (HTML, CSS, JavaScript, PHP, Python et le module Flask).
 Il y aussi différents projets à mettre en œuvre pour mieux acquérir les concepts des cours.
 Enfin, l'épreuve finale en deux partie : une partie écrite (3h30), une partie sur machine (1h).
