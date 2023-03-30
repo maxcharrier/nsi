@@ -4,7 +4,7 @@
 NSI stuff, French education speciality.
 
 ## What is NSI?
-NSI stands for "**N**umérique et **S**ciences **I**nformatiques", it is a computer science course
+NSI stands for "**N**umérique et **S**ciences **I**nformatiques", it is a computer science course.
 In France, it is a speciality of première and terminale (11th & 12th Grade).
 
 We study several courses:
