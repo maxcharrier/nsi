@@ -43,5 +43,5 @@ Enfin, l'épreuve finale en deux partie : une partie écrite (3h30), une partie 
 ## Pourquoi ce dépôt ?
 Tout simplement pour partager ce que l'on fait et faire découvrir cette spécialité, qui malheureusement n'est pas assez mise en avant.
 
-## Légale
+## Légal
 Ce dépôt utilise [CC0 1.0](LICENSE), donc tout est dans le domaine public. Faites ce que vous voulez.
