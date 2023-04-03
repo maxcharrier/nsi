@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#title {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+#wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    margin: 0 5em;
+}
+
+.ticket {
+    border: 1px solid black;
+}
+
+.ticket p {
+    margin: 4px;
+    text-align: center;
+}
+
+.name {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.num {
+    font-size: 3em;
+    font-weight: 900;
+}
+
+#waiting {
+    text-align: center;
+    font-size: 1.4em;
+    margin: 8px;
+}
