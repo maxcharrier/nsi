@@ -1,4 +1,4 @@
-from graphe_dict import voisins
+from graphe_dict import sommets, voisins
 
 
 def parcours_profondeur(graphe: dict[str, list[str]], vus: list[str], sommet: str):
@@ -42,3 +42,11 @@ print(parcours_profondeur(graphe1, [], "g"))
 
 print(existe_chaine(graphe1, "g", "d")) # True
 print(existe_chaine(graphe2, "A", "D")) # False
+
+tab_sommets = sommets(graphe2)
+for sommet1 in tab_sommets:
+    for sommet2 in tab_sommets:
+        if sommet1 == sommet2:
+            continue
+        r = existe_chaine(graphe2, sommet1, sommet2)
+        print(f"{sommet1} {sommet2} ==> {r}")
