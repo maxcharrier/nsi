@@ -19,6 +19,14 @@ def existe_chaine(graphe: dict[str, list[str]], sommet1: str, sommet2: str):
     return sommet2 in parcours_profondeur(graphe, [], sommet1)
 
 
+
+def est_connexe(graphe: dict[str, list[str]]):
+    """ Renvoie si le graphe est connexe """
+    tab_sommets = sommets(graphe)
+    parcours = parcours_profondeur(graphe, [], tab_sommets[0])
+    return len(tab_sommets) == len(parcours)
+
+
 graphe1 = {
     "a" : ["b","c"],
     "b" : ["a", "d", "e"],
@@ -50,3 +58,7 @@ for sommet1 in tab_sommets:
             continue
         r = existe_chaine(graphe2, sommet1, sommet2)
         print(f"{sommet1} {sommet2} ==> {r}")
+
+
+print(est_connexe(graphe1)) # True
+print(est_connexe(graphe2)) # False
