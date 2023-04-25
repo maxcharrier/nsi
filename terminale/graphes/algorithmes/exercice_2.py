@@ -30,6 +30,15 @@ graphe1 = {
     "h" : ["g"]
 }
 
+graphe2 = {
+    "A": ["B"],
+    "B": ["A", "C"],
+    "C": ["B"],
+    "D": ["E"],
+    "E": ["D"]
+}
+
 print(parcours_profondeur(graphe1, [], "g"))
 
 print(existe_chaine(graphe1, "g", "d")) # True
+print(existe_chaine(graphe2, "A", "D")) # False
