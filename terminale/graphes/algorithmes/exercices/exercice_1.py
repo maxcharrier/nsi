@@ -27,7 +27,7 @@ def denombrement_matrice(graphe: tuple[list[str], list[list[int]]], sommet_speci
     return ordre, degre, nb_aretes, degre_max[0], degre_min[0]
 
 
-def denombrement_dict(graphe: tuple[list[str], list[list[int]]], sommet_specifique: str):
+def denombrement_dict(graphe: dict[str, list], sommet_specifique: str):
     """ Dénombrement d'un graphe de type dictionnaire. """
     ordre = len(gdict.sommets(graphe))
     degre = len(gdict.voisins(graphe, sommet_specifique))
