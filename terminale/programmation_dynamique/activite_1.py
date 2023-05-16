@@ -1,9 +1,4 @@
-"""
-Activité 1 : algorithme glouton
-"""
-
 def rendu_monnaie(somme: int, tab_monnaie: list[int]):
-    """ Algorithme glouton de rendu de monnaie. """
     monnaie_rendu = []
     somme_restante = somme
     index = len(tab_monnaie) - 1
